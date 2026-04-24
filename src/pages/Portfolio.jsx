@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
-import { Eye, Code, Server, Smartphone, Award, Star, Link2 } from 'lucide-react';
+import { Eye, Server, Award, Star, Link2 } from 'lucide-react';
 
 const projects = [
   {

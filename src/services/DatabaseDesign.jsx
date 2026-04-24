@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
-import { Database, Server, Code, Shield, Zap, Cloud, BarChart3, Key } from 'lucide-react';
+import { Database, Server, Shield, Cloud, BarChart3, Key } from 'lucide-react';
 
 const DatabaseDesign = () => {
   return (

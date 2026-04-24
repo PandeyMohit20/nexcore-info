@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { 
   Users2, GitCommit, X,
-  Mail, Phone, MapPin,
+  Mail, Phone,
   Code, Cloud, Database, Zap,
   Home, Image, FileText
 } from 'lucide-react';

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
-import { Zap, Brain, Bot, ChartBar, Code, Database, Shield, Globe } from 'lucide-react';
+import { Zap, Brain, Bot, ChartBar, Code, Database } from 'lucide-react';
 
 const AIIntegration = () => {
   return (

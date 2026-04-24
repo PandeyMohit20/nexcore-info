@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Helmet } from 'react-helmet-async';
-import { Calendar, Clock, Phone, Mail, User, MessageCircle, Zap, Video } from 'lucide-react';
+import { Calendar, Clock, Phone, Mail, User, MessageCircle, Video } from 'lucide-react';
 
 const ScheduleCall = () => {
   const [formData, setFormData] = useState({

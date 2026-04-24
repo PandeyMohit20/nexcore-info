@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
-import { Users, Code, Zap, Briefcase } from 'lucide-react';
+import { Users } from 'lucide-react';
 
 const Careers = () => {
   const positions = [
